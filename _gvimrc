@@ -1,0 +1,3 @@
+set lines=42 columns=85
+set nu
+colorscheme xoria256
